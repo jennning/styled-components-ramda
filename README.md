@@ -2,7 +2,7 @@
 
 This is a sample project to showcase the implementation of this dev.to article:
 
-[Setup a theme with styled-components & functional programming](https://dev.to/j3nnning/styled-components-theme-with-functional-programming-1lnb).
+[Setup a theme with styled-components & functional programming](https://dev.to/j3nnning/theme-setup-with-styled-components-functional-programming-4i5p).
 
 ### 🚀 Quick start
 
